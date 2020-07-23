@@ -8,8 +8,8 @@ Original work available here: http://sdae.codeplex.com/ (copy rights and origina
 
 The MultiPurposeTools was intended to be used for more than just changing default audio devices but I was too lazy.
 
-The recommended way to use this is by setting up a media keyboard key and running the program with argument: -p"SWITCH_TO_NEXT"
-e.g: "C:\Users\Me\Documents\SoundControl\MultiPurposeTools\bin\Debug\MultiPurposeTools.exe" -p"SWITCH_TO_NEXT"
+The recommended way to use this is by setting up a media keyboard key and running the program with argument: `-p"SWITCH_TO_NEXT"`
+e.g: `"C:\SoundControl\MultiPurposeTools.exe" -p"SWITCH_TO_NEXT"`
 
 When changing to a new device, a baloon tip will appear with the name of the new device
 ## Licence
